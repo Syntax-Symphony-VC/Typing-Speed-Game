@@ -1,2 +1,58 @@
-# Typing-Speed-Game
-A game that measures typing speed.
+- @aismail5
+#- @aismail5
+ - @aismail5
+T- @aismail5
+y- @aismail5
+p- @aismail5
+i- @aismail5
+n- @aismail5
+g- @aismail5
+-- @aismail5
+S- @aismail5
+p- @aismail5
+e- @aismail5
+e- @aismail5
+d- @aismail5
+-- @aismail5
+G- @aismail5
+a- @aismail5
+m- @aismail5
+e- @aismail5
+
+- @aismail5
+A- @aismail5
+ - @aismail5
+g- @aismail5
+a- @aismail5
+m- @aismail5
+e- @aismail5
+ - @aismail5
+t- @aismail5
+h- @aismail5
+a- @aismail5
+t- @aismail5
+ - @aismail5
+m- @aismail5
+e- @aismail5
+a- @aismail5
+s- @aismail5
+u- @aismail5
+r- @aismail5
+e- @aismail5
+s- @aismail5
+ - @aismail5
+t- @aismail5
+y- @aismail5
+p- @aismail5
+i- @aismail5
+n- @aismail5
+g- @aismail5
+ - @aismail5
+s- @aismail5
+p- @aismail5
+e- @aismail5
+e- @aismail5
+d- @aismail5
+.- @aismail5
+
+- @aismail5
